@@ -1,3 +1,4 @@
+print("Beginer Proj : Tebak Angka")
 import random
 
 def tebak(x):
