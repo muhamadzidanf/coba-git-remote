@@ -3,6 +3,7 @@ print("Paragraf pertama")
 nama = input("Masukan Nama : ")
 umur = input("Masukan umur")
 hobi = input("Masukan hobi anda : ")
+pekerjaan = input("Masukan pekerjaan : ")
 
-print(f"Nama anda {nama} dengan usia {umur} hobby anda {hobi}")
+print(f"Nama anda {nama} dengan usia {umur} pekerjaan anda {pekerjaan} hobby anda {hobby}")
 
