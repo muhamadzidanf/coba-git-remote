@@ -5,5 +5,11 @@ umur = input("Masukan umur")
 hobi = input("Masukan hobi anda : ")
 pekerjaan = input("Masukan pekerjaan : ")
 
-print(f"Nama anda {nama} dengan usia {umur} pekerjaan anda {pekerjaan} hobby anda {hobby}")
+print(f"Nama anda {nama} dengan usia {umur} pekerjaan anda {pekerjaan} hobby anda {hobi}")
+
+i = 0
+while(i<5):
+	print(i)
+	i += 1
+
 
