@@ -9,7 +9,10 @@ print(f"Nama anda {nama} dengan usia {umur} pekerjaan anda {pekerjaan} hobby and
 
 i = 0
 while(i<5):
-	print(i)
+	if i % 2 == 0:
+		print(i, ": anka genap")
+	else:
+		print(i, ": angka ganjil")
 	i += 1
 
 
